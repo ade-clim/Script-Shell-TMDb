@@ -8,7 +8,7 @@ Ne pas oublier d'installer wget et jq
   - sudo apt install wget
   - sudo apt install jq
   
-Ececution :
+Execution :
   - Une fois dans le dossier Script
   - taper le code "bash Script.sh" ou "sh.Script.sh"
 
